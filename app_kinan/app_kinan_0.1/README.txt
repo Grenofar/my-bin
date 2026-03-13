@@ -1,0 +1,1 @@
+just run app_kinan_0.1
